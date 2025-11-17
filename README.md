@@ -3,7 +3,7 @@
 
 ## References
 
-## Future Development
+## Music, Character design,
 
 ## Created by
-Nathan Mishler
+Botond Kun
